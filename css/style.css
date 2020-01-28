@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    display: grid;
+}
+
+.main-body {
+    margin: auto;
+}
+
+.btn-container > button {
+    cursor: pointer;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
